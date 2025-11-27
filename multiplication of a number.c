@@ -1,5 +1,3 @@
-// C program to Demonstrate the
-// Multiplication table of a number
 #include <stdio.h>
 void print_table(int range, int num)
 {
@@ -34,4 +32,5 @@ int main()
     print_table(range, num);
 
     return 0;
+
 }
